@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 1: Quarantine Plan"
-date:   2020-03-20 00:12:45 -0400
+date:   2020-03-19 00:10:45 -0400
 categories: jekyll update
 ---
 
@@ -35,4 +35,5 @@ reviewed the material in awhile. Please wish me the strength and determination t
 everything!
 
 Sincerely,
+
 Emily
