@@ -27,6 +27,8 @@ github_username:  e-zou
 markdown: kramdown
 # theme: minima
 theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+
 plugins:
   - jekyll-feed
   - jekyll-paginate  
